@@ -1,0 +1,10 @@
+export const CHANGE_SEARCH_INPUT = 'changeSearchInput'
+export const CHANGE_NAME_INPUT = 'changeNameInput'
+
+export const CHANGE_PART_INPUT = 'changePartInput'
+export const ADD_ITEM = 'addItem'
+export const SAVE_ITEM = 'saveItem'
+export const DELETE_ITEM = 'deleteItem'
+export const EDIT_ITEM = 'editItem'
+export const GET_LIST = 'getList'
+export const SEARCH_ITEM = 'searchItem'

@@ -1,0 +1,32 @@
+table {
+  border-collapse: collapse;
+  margin: 0 auto;
+  text-align: center;
+  width: 100%;
+}
+table td,
+table th {
+  border: 1px solid #cad9ea;
+  color: #666;
+  height: 30px;
+}
+table thead th {
+  background-color: #cce8eb;
+  width: 20%;
+}
+table   td input{
+  text-align: center;
+}
+table thead th:last-of-type{
+  background-color: #cce8eb;
+  width: 20%;
+}
+table tr:nth-child(odd) {
+  background: #fff;
+}
+table tr:nth-child(even) {
+  background: #f5fafa;
+}
+td[contentEditable='true'] {
+  border: 1px solid blue;
+}
